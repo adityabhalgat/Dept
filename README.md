@@ -22,7 +22,7 @@
 
 ## 🎥 Watch the Demo
 
-[Click here to watch the video](./Video Tutorial.mp4)
+[Click here to watch the video](https://drive.google.com/file/d/19v7ycy_U8AuIwCPXI1z9elSbzpv8r4oC/view?usp=sharing)
 
 
 
