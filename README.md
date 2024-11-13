@@ -38,3 +38,9 @@
   - ![pdfMake](https://img.shields.io/badge/pdfMake-%2336F7E1.svg?style=flat&logo=pdf&logoColor=black)
 
 ---
+
+
+![GradeSnap Screenshot](./SS1.jpg)
+![GradeSnap Screenshot](./SS2.jpg)
+![GradeSnap Screenshot](./SS3.jpg)
+
