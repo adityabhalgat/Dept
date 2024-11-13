@@ -16,6 +16,16 @@
 
 ---
 
+
+
+
+
+## 🎥 Watch the Demo
+
+[Click here to watch the video](./Video Tutorial.mp4)
+
+
+
 ## 🛠 **Technologies Used**
 
 - **Frontend**: 
@@ -43,6 +53,4 @@
 ![GradeSnap Screenshot](./SS1.png)
 ![GradeSnap Screenshot](./SS2.png)
 ![GradeSnap Screenshot](./SS3.png)
-![GradeSnap Screenshot](./Video Tutorial.mp4)
-
 
