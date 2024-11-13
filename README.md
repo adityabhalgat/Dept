@@ -40,7 +40,7 @@
 ---
 
 
-![GradeSnap Screenshot](./SS1.jpg)
-![GradeSnap Screenshot](./SS2.jpg)
-![GradeSnap Screenshot](./SS3.jpg)
+![GradeSnap Screenshot](./SS1.png)
+![GradeSnap Screenshot](./SS2.png)
+![GradeSnap Screenshot](./SS3.png)
 
