@@ -60,7 +60,7 @@ function LoginPage() {
               <input
                 type="password"
                 id="password"
-                className="w-full p-4 rounded-lg border bg-white border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full p-4 rounded-lg border text-black bg-white border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
               />
             </div>
             <button type="button" onClick={()=>{
